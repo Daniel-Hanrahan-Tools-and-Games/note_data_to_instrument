@@ -11,7 +11,7 @@ If you want to use an arduino you have to use the files from the version 2 folde
 
 It works on arduino uno right now but I have no idea if it works on other arduino boards.
 
-Repository Page: <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument">Repository Page</a>
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument">Repository Page</a>
 
 <a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
 
