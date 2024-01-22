@@ -13,4 +13,6 @@ It works on arduino uno right now but I have no idea if it works on other arduin
 
 Repository Page: https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument
 
+<a href="https://daniel-hanrahan-tools-and-games.github.io/">Home Page</a>
+
 Contributors needed.
