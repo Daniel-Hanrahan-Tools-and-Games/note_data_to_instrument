@@ -9,6 +9,8 @@ It works on raspberry pi right now but I have no idea if it works on raspberry p
 
 If you want to use an arduino you have to use the files from the version 2 folder because I still have version 1 on here for people who may want it and you have to run and send the note_data_to_instrument_arduino_driver file to the arduino 1st then run note_data_to_instrument.
 
+To use 128 note support you have to use the files from the version 3 folder.
+
 It works on arduino uno right now but I have no idea if it works on other arduino boards.
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument">Repository Page</a>
