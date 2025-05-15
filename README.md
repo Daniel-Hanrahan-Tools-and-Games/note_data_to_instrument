@@ -9,7 +9,9 @@ It works on raspberry pi right now but I have no idea if it works on raspberry p
 
 If you want to use an arduino you have to use the files from the version 2 folder because I still have version 1 on here for people who may want it and you have to run and send the note_data_to_instrument_arduino_driver file to the arduino 1st then run note_data_to_instrument.
 
-To use 128 note support you have to use the files from the version 3 folder.
+To use 128 note support you have to use the files from the version 3 folder or later.
+
+To use Mod Support you must use the version 4 folder and to run mods you need to put the mod file in your home directory, project folder or both whichever works for you.
 
 It works on arduino uno right now but I have no idea if it works on other arduino boards.
 
