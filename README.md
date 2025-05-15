@@ -13,6 +13,8 @@ To use 128 note support you have to use the files from the version 3 folder or l
 
 To use Mod Support you must use the version 4 folder and to run mods you need to put the mod file in your home directory, project folder or both, whichever works for you. The mod must be called note_data_to_instrument_mod.lua.
 
+<a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument_mod">Example Mod Repository Page</a>
+
 It works on arduino uno right now but I have no idea if it works on other arduino boards.
 
 <a href="https://github.com/Daniel-Hanrahan-Tools-and-Games/note_data_to_instrument">Repository Page</a>
